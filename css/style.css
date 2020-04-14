@@ -1,5 +1,4 @@
 
-
 body {
 	margin: 0
 	padding-right: 0px;
@@ -20,3 +19,5 @@ a{
   margin-right: auto;
   width: 50%;
 }
+
+h1{text-align:center;}
