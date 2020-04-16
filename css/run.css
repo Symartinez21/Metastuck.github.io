@@ -17,7 +17,7 @@ h1{
 	font-family: 'Source Sans Pro', sans-serif;}
 
 .custom-cur {
-  width: 150px
-  height: 150px;
-  cursor: url('images/running.png');
+  width: 35px
+  height: 35px;
+  cursor: url('images/cursor.png');
 }
