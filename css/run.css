@@ -16,6 +16,6 @@ h1{
 	text-align:center;
 	font-family: 'Source Sans Pro', sans-serif;}
 
-.custom {
-  cursor: url(running.png),[x y|auto];
+.custom-cur {
+  cursor: url('images/running.png');
 }
