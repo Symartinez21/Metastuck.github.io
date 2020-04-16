@@ -19,5 +19,5 @@ h1{
 .custom-cur {
   width: 35px
   height: 35px;
-  cursor: url('images/cursor.png');
+  cursor: url('cursor.png') pointer;
 }
