@@ -16,9 +16,6 @@ h1{
 	text-align:center;
 	font-family: 'Source Sans Pro', sans-serif;}
 
-body{
-	margin: 0;
-	padding: 0;
-	background-color: #2f0616;
-	cursor: url(../images/ghost2.png), auto;
+.custom {
+  cursor: url(images/run.png), auto;
 }
