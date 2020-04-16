@@ -9,7 +9,7 @@ a{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /*width: 40%;*/
+  width: 40%;
 }
 
 h1{
@@ -17,5 +17,5 @@ h1{
 	font-family: 'Source Sans Pro', sans-serif;}
 
 .custom {
-  cursor: url(images/running.png), auto;
+  cursor: url(running.png),[x y|auto];
 }
