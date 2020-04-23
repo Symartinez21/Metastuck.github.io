@@ -16,8 +16,8 @@ h1{
 	text-align:center;
 	font-family: 'Source Sans Pro', sans-serif;}
 
-.custom-cur {
-  width: 35px
-  height: 35px;
-  cursor: url('cursor.png') pointer;
+.cursor-test {
+  width: 100%;
+  height: 800px;
+  cursor: url("cursor.png"), auto;
 }
